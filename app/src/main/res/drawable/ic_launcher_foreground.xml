@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="30dp"
+    android:height="30dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Vertical lines for Tic Tac Toe grid -->
+    <path android:pathData="M16,0v48" android:strokeWidth="1.5" android:strokeColor="#FFFFFF" />
+    <path android:pathData="M32,0v48" android:strokeWidth="1.5" android:strokeColor="#FFFFFF" />
+
+    <!-- Horizontal lines for Tic Tac Toe grid -->
+    <path android:pathData="M0,16h48" android:strokeWidth="1.5" android:strokeColor="#FFFFFF" />
+    <path android:pathData="M0,32h48" android:strokeWidth="1.5" android:strokeColor="#FFFFFF" />
+
+</vector>
