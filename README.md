@@ -2,7 +2,10 @@
 
 ## Overview
 
-This is a simple Tic Tac Toe game developed for Android devices using Kotlin.
+This is a simple Tic Tac Toe game developed for Android devices using Kotlin. The game features two-player gameplay, intuitive touch controls, clear win/loss/draw indications, and auto reset.
+
+<img src="tictactoe.jpeg" alt="Tic Tac Toe" width="300" align="right"/>
+
 
 ## Features
 
